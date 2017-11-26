@@ -1,0 +1,6 @@
+[CityU]
+list_url = https://scholars.cityu.edu.hk/en/persons/search.html
+
+[page]
+save_dir = ./pages
+
