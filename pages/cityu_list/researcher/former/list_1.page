@@ -1,0 +1,217 @@
+<!doctype html><html lang="en"><head>
+            <meta charset="utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+            <title>Researchers - CityU Scholars | A Research Hub of Excellence</title>
+        <meta name="description" content="persons meta description" />
+        <meta property="og:description" content="Showcasing CityU Renowned Researchers" />
+
+            <meta property="og:image" content="/resources/style/gfx/logo_top.png" />
+            
+            <meta property="og:url" content="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1" />
+            <link rel="image_src" type="image/png" href="/resources/style/gfx/logo_top.png" />
+            <link rel="icon" href="/resources/style/gfx/favicon.ico" type="image/x-icon" />
+            <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css" /><link type="text/css" rel="stylesheet" href="/resources/style/fonts/icons/css/fontello.css?stamp=1499681369513" /><link type="text/css" rel="stylesheet" href="/resources/style/js/slick/slick.css?stamp=1499681369513" /><link type="text/css" rel="stylesheet" href="/resources/style/js/slick/slick-theme.css?stamp=1499681369513" /><link type="text/css" rel="stylesheet" href="/resources/style/css/main.css?stamp=1499681369513" />
+            <link type="text/css" rel="stylesheet" href="https://www.cityu.edu.hk/scholars/portal/css/main_cu.css" /><script type="text/javascript" src="/dwr/engine.js?stamp=1499681369513"></script><script type="text/javascript" src="/dwr/interface/PureFacade.js?stamp=1499681369513"></script><script type="text/javascript" src="/resources/style/lib/prototype.js?stamp=1499681369513"></script><script type="text/javascript" src="/resources/style/js/atira.js?stamp=1499681369513"></script><script type="text/javascript" src="/resources/style/js/atira_chart.js?stamp=1499681369513"></script><script type="text/javascript" src="/dwr/interface/GraphFacade.js?stamp=1499681369513"></script>
+<script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-11187669-7', 'auto');ga('send', 'pageview');</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PZF4343"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PZF4343');</script>
+<!-- End Google Tag Manager --><script type="text/javascript" src="/resources/style/js/jquery-2.1.4.min.js?stamp=1499681369513"></script>
+            <script type="text/javascript">jQuery.noConflict();</script><script type="text/javascript" src="/resources/style/js/jquery.overflow-navigation.js?stamp=1499681369513"></script><script type="text/javascript" src="/resources/style/js/slick/slick.min.js?stamp=1499681369513"></script><script type="text/javascript" src="/resources/style/js/main.js?stamp=1499681369513"></script><script type="text/javascript" src="/resources/core/style/js/portal.js?stamp=1499681369513"></script></head><body class="persons en_GB en">
+
+
+            
+
+            <div class="header"><!-- start: header -->                <div class="top">
+                    <div class="wrapper">
+                        <div class="logo">
+                            <a href="http://www.cityu.edu.hk/" target="_blank" tabindex="1">
+                                <img src="https://template.cityu.edu.hk/template/img/logos/cityu_m_lowres.png" alt="CityU Scholars" />
+                            </a>
+                        </div>
+                        <h2 class="portal-header">
+                            <a class="portal_link" href="/">CityU Scholars</a>
+                            <div class="portal-burb">A Research Hub of Excellence</div>
+                        </h2>
+
+                        <a href="http://libguides.library.cityu.edu.hk/cityuscholars" target="_blank" class="researcher_login"><span>Researcher login</span></a>
+                    </div>
+                </div><!-- end: header -->
+                <div class="menuwrapper">
+                    <div class="wrapper">
+                              <span class="burger">
+                                <span class="burger-bars"></span>
+                              </span>
+
+    <ul class="menu">
+        
+        <li><a class="portal_link" href="/en/"><span>
+                Home
+            </span></a>
+        </li>
+        <li class="selected"><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=current"><span>
+                Researchers
+            </span></a>
+        </li>
+        <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/organisations/search.html"><span>
+                Research Units
+            </span></a>
+        </li>
+        <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/publications/search.html"><span>
+                Research Output
+            </span></a>
+        </li>
+        <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/projects/search.html"><span>
+                Projects
+            </span></a>
+        </li>
+        <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/activities/search.html"><span>
+                Activities
+            </span></a>
+        </li>
+        <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/prizes/search.html"><span>
+                Prizes / Honours
+            </span></a>
+        </li>
+        <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/theses/search.html"><span>
+                Student Theses
+            </span></a>
+        </li>
+        <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/datasets/search.html"><span>
+                Datasets
+            </span></a>
+        </li>
+        <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/impact/search.html"><span>
+                Impact
+            </span></a>
+        </li>
+        <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/clippings/search.html"><span>
+                Press / Media 
+            </span></a>
+        </li>
+        
+        
+        
+        
+        
+    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="front-seacrh">
+            </div>
+
+            <div class="main-content wrapper false search">
+        <div class="expert-tab-wrap">
+            <div class="tabs-container">
+                <ul class="person-search-tabs">
+                    <li class="selected"><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?expertise=false"><span>
+                            Find Researchers
+                            </span></a>
+                    </li>
+                    <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?expertise=true"><span>Find Expert(s)
+                            </span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    <form method="get" accept-charset="UTF-8" class="core_searchform" action="search.html">
+        <div class="search-box"><span class="portal_searchfield" id="search_container"><span><span><input type="text" class="portal_searchfield" value="" id="search" name="search" placeholder="Search researchers..." /></span></span></span><script type="text/javascript">
+try {(function() {
+var obj = new portal.SearchField({'element':'search_container'});
+})();} catch (e) {if (window['atira']) {atira.handleException(e);}}
+</script>
+
+            <span class="search_icon"></span>
+            <input type="submit" class="search_button" value=" " />
+            <a class="lucene" target="popup" href="/en/lucene.html" onclick="window.open('/en/lucene.html','Lucene','width=600,height=700')">?</a>
+            <input type="hidden" name="affiliationStatus" value="former" />
+            <input type="hidden" name="filter" value="researcher" />
+            <input type="hidden" name="lastName" />
+            <input type="hidden" name="type" />
+            <input type="hidden" name="expertise" />
+        </div>
+    </form><div class="portal_disclosure" id="j_id-1916883269_4d1467dd"><a class="portal_disclosure portal_disclosure_open" href="javascript:void(0);"><span></span></a><div class="portal_disclosure_body"><div class="portal_disclosure_opened" style="display: block; height: auto; visibility: visible; overflow: visible;">
+                <div class="search-advanced-criteria clearfix">
+        <div class="search-filters persons-filter">
+            <div class="filterbox">
+                <ul class="filters">
+                    <li class="all"><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=all&amp;pageSize=100&amp;page=0"><span>All</span></a>
+                    </li>
+                    <li><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=current&amp;pageSize=100&amp;page=0"><span>Current</span></a>
+                    </li>
+                    <li><a class="portal_link selected" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=0"><span>Former</span></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="filterbox">
+                <ul class="filters">
+                    <li class="all"><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=all&amp;affiliationStatus=former&amp;pageSize=100&amp;page=0"><span>All</span></a>
+                    </li>
+                        <li class="Researchers"><a class="portal_link selected " href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=0"><span>Researchers</span></a>
+                        </li>
+                        <li class="Students"><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=students&amp;affiliationStatus=former&amp;pageSize=100&amp;page=0"><span>Students</span></a>
+                        </li>
+                </ul>
+            </div>
+        </div>
+        <div class="search-filters letters-filter">
+            <a href="#" class="toggle_letters">
+                Filter by letter
+            </a>
+            <div class="letters"><a class="portal_link selected " href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=0&amp;lastName="><span>All</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=A"><span>A</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=B"><span>B</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=C"><span>C</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=D"><span>D</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=E"><span>E</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=F"><span>F</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=G"><span>G</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=H"><span>H</span></a><a class="portal_link disabled" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=I"><span>I</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=J"><span>J</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=K"><span>K</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=L"><span>L</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=M"><span>M</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=N"><span>N</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=O"><span>O</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=P"><span>P</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=Q"><span>Q</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=R"><span>R</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=S"><span>S</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=T"><span>T</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=U"><span>U</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=V"><span>V</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=W"><span>W</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=X"><span>X</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=Y"><span>Y</span></a><a class="portal_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;lastName=Z"><span>Z</span></a>
+            </div>
+        </div>
+                </div></div></div></div>
+<script type="text/javascript">new portal.Disclosure({'element':'j_id-1916883269_4d1467dd','openOnClick':false,'hideIfEmpty':false,'opened':true,'name':'advanced'});</script>
+
+
+    <div class="search-result-container search-container-for-persons">
+
+    <div class="portal_search_body">
+        <form method="get" accept-charset="UTF-8" action="search.html">
+            <div class="portal_content_panel"><div class="portal_navigator" id="j_id-1643534166_51fa86fa"><div class="portal_navigator_top"><div class="portal_navigator_row"><div class="portal_navigator_window_and_pagesize"><div class="portal_navigator_popup"><div class="portal_navigator_popup_control"><div class="div"><div class="div"><span class="portal_navigator_window"><span class="portal_navigator_window_info">101 - 109 out of 109</span></span><a href="javascript:void(0);" alt="Click to select how many results to show per page"><span class="portal_navigator_pagesize portal_navigator_links"><em>Page size: </em>100</span></a></div></div></div><div class="portal_navigator_popup_content"><ul><li><a href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=10&amp;page=0" rel="nofollow"><span>10</span></a></li><li><a href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=20&amp;page=0" rel="nofollow"><span>20</span></a></li><li><a href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=50&amp;page=0" rel="nofollow"><span>50</span></a></li><li><strong>100</strong></li><li><a href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=200&amp;page=0" rel="nofollow"><span>200</span></a></li></ul></div></div></div><div class="portal_navigator_rss"><a class="portal_link rss-link" href="https://scholars.cityu.edu.hk/en/persons/search.rss?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1"><span><img src="/resources/style/gfx/icon-rss.png" width="18px" alt="rss feed" /></span></a></div><div class="portal_navigator_ordering"><div class="portal_navigator_popup"><div class="portal_navigator_popup_control"><div><div><strong>Sort by: </strong><a href="javascript:void(0);"><span class="portal_navigator_sort_ascending">Last name</span></a></div></div></div><div class="portal_navigator_popup_content"><ul><li><a class="selected portal_navigator_sort_descending" rel="nofollow" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;ordering=personOrderByLastName&amp;descending=true"><span>Last name</span></a></li><li><a class="portal_navigator_sort_descending" rel="nofollow" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=1&amp;ordering=personOrderByModified&amp;descending=true"><span>Modified date</span></a></li></ul></div></div></div></div></div><div class="portal_navigator_result">
+                        <ol class="portal_list"><li class="portal_list_item"><a class="portal_link person-image" href="https://scholars.cityu.edu.hk/en/persons/tengfei-zhao(246864aa-abe7-42ea-93dc-3d371d1539e7).html"><span>
+                        <img width="100" src="/resources/style/gfx/avatar-blank.png" /></span></a><div class="rendering rendering_person rendering_short rendering_person_short"><h2 class="title"><a rel="Person" href="https://scholars.cityu.edu.hk/en/persons/tengfei-zhao(246864aa-abe7-42ea-93dc-3d371d1539e7).html" class="link person"><span>ZHAO, Tengfei</span></a></h2><ul class="relations email"></ul><ul class="relations organisations"><li><a rel="Organisation" href="https://scholars.cityu.edu.hk/en/organisations/department-of-architecture-and-civil-engineering(864d5ea9-a8ed-48a5-bb92-0ac39dfa7d94).html" class="link organisation"><span>Department of Architecture and Civil Engineering</span></a><span class="minor dimmed"> - Former</span></li></ul><p class="type"><span class="family">Person: </span>Doctor of Philosophy (Student) (Student)</p></div></li><li class="portal_list_item"><a class="portal_link person-image" href="https://scholars.cityu.edu.hk/en/persons/xiaohui-zhao(1635749e-849b-4ccb-aa04-23f4eb12b376).html"><span>
+                        <img width="100" src="/resources/style/gfx/avatar-blank.png" /></span></a><div class="rendering rendering_person rendering_short rendering_person_short"><h2 class="title"><a rel="Person" href="https://scholars.cityu.edu.hk/en/persons/xiaohui-zhao(1635749e-849b-4ccb-aa04-23f4eb12b376).html" class="link person"><span>ZHAO, Xiaohui</span></a></h2><ul class="relations email"></ul><ul class="relations organisations"><li><a rel="Organisation" href="https://scholars.cityu.edu.hk/en/organisations/school-of-energy-and-environment(a0af5517-a6b7-4a17-a551-ca42ed6e144a).html" class="link organisation"><span>School of Energy and Environment</span></a><span class="minor dimmed"> - Former</span></li></ul><p class="type"><span class="family">Person: </span>Doctor of Philosophy (Student) (Student)</p></div></li><li class="portal_list_item"><a class="portal_link person-image" href="https://scholars.cityu.edu.hk/en/persons/lin-zhou(cf663e9f-3d4c-4c57-a80c-a8053a66ab69).html"><span>
+                        <img width="100" src="/resources/style/gfx/avatar-blank.png" /></span></a><div class="rendering rendering_person rendering_short rendering_person_short"><h2 class="title"><a rel="Person" href="https://scholars.cityu.edu.hk/en/persons/lin-zhou(cf663e9f-3d4c-4c57-a80c-a8053a66ab69).html" class="link person"><span>ZHOU, Lin</span></a></h2><ul class="relations email"><li class="email"><a href="mailto:efzhou@cityu.edu.hk" class="link"><span>efzhou@cityu.edu.hk</span></a></li></ul><ul class="relations organisations"><li><a rel="Organisation" href="https://scholars.cityu.edu.hk/en/organisations/department-of-economics-and-finance(e4ed02e1-4906-4cf8-92b3-24ded98ddfa9).html" class="link organisation"><span>Department of Economics and Finance</span></a><span class="minor dimmed"> - Former</span></li></ul><p class="type"><span class="family">Person: </span>Professor (Staff)</p></div></li><li class="portal_list_item"><a class="portal_link person-image" href="https://scholars.cityu.edu.hk/en/persons/nan-zhou(8f75b32d-b7e3-4530-9963-46c34dd175de).html"><span>
+                        <img width="100" src="https://scholars.cityu.edu.hk/files/6910606/6_MKT_ZHOU_Nan_Photo.jpg" /></span></a><div class="rendering rendering_person rendering_short rendering_person_short"><h2 class="title"><a rel="Person" href="https://scholars.cityu.edu.hk/en/persons/nan-zhou(8f75b32d-b7e3-4530-9963-46c34dd175de).html" class="link person"><span>ZHOU, Nan</span></a></h2><ul class="relations email"><li class="email"><a href="mailto:mkzhou@cityu.edu.hk" class="link"><span>mkzhou@cityu.edu.hk</span></a></li></ul><ul class="relations organisations"><li><a rel="Organisation" href="https://scholars.cityu.edu.hk/en/organisations/department-of-marketing(4ea287ad-2960-4218-8a05-96160616e40b).html" class="link organisation"><span>Department of Marketing</span></a><span class="minor dimmed"> - Former</span></li></ul><p class="type"><span class="family">Person: </span>Professor (Staff)</p></div></li><li class="portal_list_item"><a class="portal_link person-image" href="https://scholars.cityu.edu.hk/en/persons/qiang-zhou(a6771237-1fe6-46bd-8d91-7fa060f05774).html"><span>
+                        <img width="100" src="https://scholars.cityu.edu.hk/files/6755569/19_SEEM_ZHOU_Qiang_Photo.jpg" /></span></a><div class="rendering rendering_person rendering_short rendering_person_short"><h2 class="title"><a rel="Person" href="https://scholars.cityu.edu.hk/en/persons/qiang-zhou(a6771237-1fe6-46bd-8d91-7fa060f05774).html" class="link person"><span>ZHOU, Qiang</span></a></h2><ul class="relations email"><li class="email"><a href="mailto:q.zhou@cityu.edu.hk" class="link"><span>q.zhou@cityu.edu.hk</span></a></li></ul><ul class="relations organisations"><li><a rel="Organisation" href="https://scholars.cityu.edu.hk/en/organisations/department-of-systems-engineering-and-engineering-management(ca72129c-e0e1-47ac-8b8a-ba68c9131961).html" class="link organisation"><span>Department of Systems Engineering and Engineering Management</span></a><span class="minor dimmed"> - Former</span></li></ul><p class="type"><span class="family">Person: </span>Assistant Professor (Staff)</p></div></li><li class="portal_list_item"><a class="portal_link person-image" href="https://scholars.cityu.edu.hk/en/persons/chengfei-zhu(73bdc4c9-a0ed-4518-a803-12cc290bb87e).html"><span>
+                        <img width="100" src="/resources/style/gfx/avatar-blank.png" /></span></a><div class="rendering rendering_person rendering_short rendering_person_short"><h2 class="title"><a rel="Person" href="https://scholars.cityu.edu.hk/en/persons/chengfei-zhu(73bdc4c9-a0ed-4518-a803-12cc290bb87e).html" class="link person"><span>ZHU, Chengfei</span></a></h2><ul class="relations email"><li class="email"><a href="mailto:chengzhu@cityu.edu.hk" class="link"><span>chengzhu@cityu.edu.hk</span></a></li></ul><ul class="relations organisations"><li><a rel="Organisation" href="https://scholars.cityu.edu.hk/en/organisations/ability-rd-energy-research-centre(2513e09f-7461-43d1-a4a7-38bfdea06eba).html" class="link organisation"><span>Ability R&amp;D Energy Research Centre</span></a><span class="minor dimmed"> - Former</span></li></ul><p class="type"><span class="family">Person: </span>Visiting Associate Professor (Staff)</p></div></li><li class="portal_list_item"><a class="portal_link person-image" href="https://scholars.cityu.edu.hk/en/persons/chunshen-zhu(a66e86f8-4552-46af-ae57-333047c93d91).html"><span>
+                        <img width="100" src="https://scholars.cityu.edu.hk/files/10623983/5_CAH_ZHU_Chunshen_Photo.png" /></span></a><div class="rendering rendering_person rendering_short rendering_person_short"><h2 class="title"><a rel="Person" href="https://scholars.cityu.edu.hk/en/persons/chunshen-zhu(a66e86f8-4552-46af-ae57-333047c93d91).html" class="link person"><span>ZHU, Chunshen</span></a></h2><ul class="relations email"><li class="email"><a href="mailto:ctzhu@cityu.edu.hk" class="link"><span>ctzhu@cityu.edu.hk</span></a></li></ul><ul class="relations organisations"><li><a rel="Organisation" href="https://scholars.cityu.edu.hk/en/organisations/department-of-chinese-and-history(d573a122-1786-47e0-9d82-2a5333203457).html" class="link organisation"><span>Department of Chinese and History</span></a><span class="minor dimmed"> - Former</span></li></ul><p class="type"><span class="family">Person: </span>Professor (Staff)</p></div></li><li class="portal_list_item"><a class="portal_link person-image" href="https://scholars.cityu.edu.hk/en/persons/han-zhu(79ad0bdf-27a2-4614-b4b3-a32c01115021).html"><span>
+                        <img width="100" src="/resources/style/gfx/avatar-blank.png" /></span></a><div class="rendering rendering_person rendering_short rendering_person_short"><h2 class="title"><a rel="Person" href="https://scholars.cityu.edu.hk/en/persons/han-zhu(79ad0bdf-27a2-4614-b4b3-a32c01115021).html" class="link person"><span>ZHU, Han</span></a></h2><ul class="relations email"></ul><ul class="relations organisations"><li><a rel="Organisation" href="https://scholars.cityu.edu.hk/en/organisations/department-of-management-sciences(ac437989-69e3-4955-a7f2-8b223bd74e65).html" class="link organisation"><span>Department of Management Sciences</span></a><span class="minor dimmed"> - Former</span></li></ul><p class="type"><span class="family">Person: </span>Doctor of Philosophy (Student) (Student)</p></div></li><li class="portal_list_item"><a class="portal_link person-image" href="https://scholars.cityu.edu.hk/en/persons/minshen-zhu(a9a6dd6f-abbf-4adf-bf97-246c4a62d77b).html"><span>
+                        <img width="100" src="/resources/style/gfx/avatar-blank.png" /></span></a><div class="rendering rendering_person rendering_short rendering_person_short"><h2 class="title"><a rel="Person" href="https://scholars.cityu.edu.hk/en/persons/minshen-zhu(a9a6dd6f-abbf-4adf-bf97-246c4a62d77b).html" class="link person"><span>ZHU, Minshen</span></a></h2><ul class="relations email"><li class="email"><a href="mailto:minshezhu2@cityu.edu.hk" class="link"><span>minshezhu2@cityu.edu.hk</span></a></li></ul><ul class="relations organisations"><li><a rel="Organisation" href="https://scholars.cityu.edu.hk/en/organisations/department-of-materials-science-and-engineering(6f86c441-4b56-4f67-958e-ad2fd7b70c98).html" class="link organisation"><span>Department of Materials Science and Engineering</span></a><span class="minor dimmed"> - Former</span></li></ul><p class="type"><span class="family">Person: </span>Postdoctoral Fellow (Staff)</p></div></li>
+                        </ol></div><div class="portal_navigator_bottom portal_navigator_pages"><div class="portal_navigator_row"><span class="portal_navigator_prev_next"><a class="portal_navigator_previous common_link" href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=0"><span>Previous</span></a></span> <span class="portal_navigator_paging portal_navigator_links"><a href="https://scholars.cityu.edu.hk/en/persons/search.html?filter=researcher&amp;affiliationStatus=former&amp;pageSize=100&amp;page=0"><span>1</span></a> <strong>2</strong> </span><span class="portal_navigator_prev_next">  <span class="portal_navigator_next portal_navigator_next_disabled"><span>Next</span></span></span>
+</div></div></div><script type="text/javascript">
+try {(function() {
+new portal.Navigator({element:'j_id-1643534166_51fa86fa'});
+})();} catch (e) {if (window['atira']) {atira.handleException(e);}}
+</script>
+            </div>
+        </form>
+    </div>
+
+    </div>
+            </div>
+            <div class="footer">
+                <div class="wrapper"><!-- start: footer -->		<div class="cityu-scholar-footer-outbox">
+			<div class="cityu-scholar-footer-inbox">
+				<a href="http://www.cityu.edu.hk/cityu/privacy/index.htm" title="Footer Privacy Policy" target="_blank">Privacy Policy</a> |
+				<a href="http://www.cityu.edu.hk/cityu/copyright/index.htm#copyright" title="Footer Copyright" target="_blank">Copyright</a> |
+				<a href="http://www.cityu.edu.hk/cityu/disclaimer/index.htm#disclaimer" title="Footer Disclaimer" target="_blank">Disclaimer</a> |
+				<a href="http://www.cityu.edu.hk/cityu/accessibility/" title="Footer Accessibility" target="_blank">Accessibility</a> |
+				<a href="http://www.cityu.edu.hk/cityu/contactus/index.htm" title="Footer Contact Us" target="_blank">Contact Us</a><br />
+				© City University of Hong Kong. All Rights Reserved.
+			</div>
+			<div style="float:right;margin-top:45px;"><img src="https://www.cityu.edu.hk/scholars/portal/image/cityu_footer.png" alt="" /></div>
+		</div><!-- end: footer -->
+                </div>
+            </div>
+            
+            <script async="true" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-586ef7fa1e60e604"></script></body></html>
