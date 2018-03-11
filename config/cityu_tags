@@ -1,0 +1,24 @@
+[url]
+page_url = https://scholars.cityu.edu.hk/en/persons/peter-brimblecombe(64d40027-31a8-4379-bcf8-a10ab8bda920).html
+
+[tabs]
+tab_url = tabs-container
+[overview]
+personname = personname
+address = rendering rendering_classifiedaddress rendering_compactwithoutaddresstype rendering_classifiedaddress_compactwithoutaddresstype
+phone = phonenumbers
+persontop = org-list persontop-list
+qualifications = qualifications
+mail = relations email
+author_ids = ids-list persontop-list
+overview = rendering rendering_person rendering_profileinformationportalcustom rendering_person_profileinformationportalcustom
+
+[publications]
+#research_test = rendering rendering_researchoutput  rendering_researchoutput_short rendering_contributiontojournal rendering_short rendering_contributiontojournal_short
+research = rendering.*researchoutput.*
+
+[projects]
+projects = rendering rendering_upmproject rendering_short rendering_upmproject_short
+
+[supervision]
+supervision = rendering rendering_personsupervisorassociation rendering_supervisorforportal rendering_personsupervisorassociation_supervisorforportal 
